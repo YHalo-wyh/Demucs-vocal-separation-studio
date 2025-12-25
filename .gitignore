@@ -179,3 +179,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# separation outputs: saved next to source audio as {base}_{stem}.wav
+*_vocals.wav
+*_drums.wav
+*_bass.wav
+*_other.wav

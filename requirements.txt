@@ -1,0 +1,15 @@
+# 人声音频分离工作站 - 依赖列表
+# 安装命令: pip install -r requirements.txt
+
+# 深度学习核心 (Demucs大模型依赖)
+torch>=2.0.0
+torchaudio>=2.0.0
+demucs>=4.0.0
+
+# 音频处理
+numpy>=1.21.0
+scipy>=1.7.0
+pyaudio>=0.2.11
+
+# 可视化
+matplotlib>=3.5.0
