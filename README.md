@@ -10,6 +10,8 @@
 一个基于 **Demucs 深度学习大模型** 的专业音频分离工作站，可以将音乐分离成人声、鼓点、贝斯、其他乐器四个独立音轨。
 
 ---
+<img width="1918" height="986" alt="image" src="https://github.com/user-attachments/assets/3d1f06c4-a808-4222-9359-5db516503922" />
+
 
 ## ✨ 功能特点
 
@@ -101,7 +103,7 @@ Demucs 是 **Facebook AI Research (Meta AI)** 开发的 **深度学习音源分�
 在项目目录下运行：
 
 ```bash
-python 人声分离.py
+python separation-studio.py
 ```
 
 ---
